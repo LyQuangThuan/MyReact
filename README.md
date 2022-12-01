@@ -1,4 +1,4 @@
-#Bài tập môn React
+# Bài tập môn React
 ## Lý Thuyết
 1. [Câu 1](https://codepen.io/LyQuangThuan/pen/oNydRKW)
 2. [Câu 2](https://codepen.io/LyQuangThuan/pen/WNyJBVP)
