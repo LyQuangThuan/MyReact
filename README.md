@@ -23,4 +23,5 @@
 21. [Câu 21](https://codepen.io/LyQuangThuan/pen/JjZzYNv)
 ## Thực hành
 1. [Bài thực hành pros và state]
-2. [Bài thực hành số 1]
+2. [Bài thực hành số 1](https://codepen.io/LyQuangThuan/pen/bGKJRmN)
+3. [Bài thực hành số 2]()
