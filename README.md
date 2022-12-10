@@ -2,7 +2,7 @@
 ## Lý Thuyết
 1. [Câu 1](https://codepen.io/LyQuangThuan/pen/oNydRKW)
 2. [Câu 2](https://codepen.io/LyQuangThuan/pen/WNyJBVP)
-3. [Câu 3]()
+3. [Câu 3](https://codesandbox.io/s/bai-3-3zvx6b?file=/src/App.js)
 4. [Câu 4](https://codepen.io/LyQuangThuan/pen/ExRMVoE)
 5. [Câu 5](https://codepen.io/LyQuangThuan/pen/LYrapQg)
 6. [Câu 6](https://codepen.io/LyQuangThuan/pen/poKYjLe)
