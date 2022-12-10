@@ -25,3 +25,4 @@
 1. [Bài thực hành props và state]
 2. [Bài thực hành số 1](https://codepen.io/LyQuangThuan/pen/bGKJRmN)
 3. [Bài thực hành React và tạo Components](https://codesandbox.io/s/lam-quen-va-tao-components-run3cz)
+4. [Bài thực hành số 2](https://codesandbox.io/s/bai-thuc-hanh-2-ndtz7r)
